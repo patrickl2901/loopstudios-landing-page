@@ -265,6 +265,9 @@ footer {
 
     .desktop-nav > li:hover {
         cursor: pointer;
+        text-decoration: underline;
+        text-decoration-thickness: 2px;
+        text-underline-offset: 0.5rem;
     }
 
     .menu-icon {

@@ -1,4 +1,4 @@
-# Huddle Landing Page - frontendmentor.io
+# Loopstudios Landing Page - frontendmentor.io
  
 <h2>Users Should be Able to:</h2>
 
